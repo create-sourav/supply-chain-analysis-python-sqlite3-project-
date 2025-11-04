@@ -1,6 +1,6 @@
 # 🏭 DataCo Supply Chain Analytics Project
 
-A full-scale **data analytics and business intelligence project** on the [DataCo Smart Supply Chain dataset](https://www.kaggle.com/datasets/datacofederation/dataco-smart-supply-chain-for-big-data-analysis).  
+A full-scale **data analytics and business intelligence project** on the [DataCo Smart Supply Chain dataset](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis).  
 This project combines **SQL, Python (Pandas, Seaborn, Matplotlib)**, and **statistical methods (ANOVA & T-Test)** to extract actionable insights about **sales, customers, delivery efficiency, and business performance**.
 
 ---
