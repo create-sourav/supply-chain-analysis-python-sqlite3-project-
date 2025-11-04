@@ -262,3 +262,18 @@ Business Analytics | SQL | Python | Data Visualization
 📧 souravmondal5f@gamail.com  
 
 ---
+> **📦 Note on Dataset**
+>
+> The dataset used in this project (`supply_chain_sample.csv.gz`) is a **compressed sample file** in `.gz` format to reduce file size for GitHub upload limits.
+>
+> To use it:
+> 1. Download or clone the repository.  
+> 2. Extract or read the file directly using:
+>    ```python
+>    import pandas as pd
+>    df = pd.read_csv("supply_chain_sample.csv.gz", compression="gzip")
+>    ```
+> 3. The file is automatically decompressed when loaded in Python — no manual extraction needed.
+>
+> The full original dataset (~90 MB) can be found on Kaggle:  
+> [DataCo Smart Supply Chain Dataset](https://www.kaggle.com/datasets/datacofederation/dataco-smart-supply-chain-for-big-data-analysis)
