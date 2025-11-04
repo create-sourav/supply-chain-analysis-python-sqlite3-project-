@@ -276,4 +276,4 @@ Business Analytics | SQL | Python | Data Visualization
 > 3. The file is automatically decompressed when loaded in Python — no manual extraction needed.
 >
 > The full original dataset (~90 MB) can be found on Kaggle:  
-> [DataCo Smart Supply Chain Dataset](https://www.kaggle.com/datasets/datacofederation/dataco-smart-supply-chain-for-big-data-analysis)
+> [DataCo Smart Supply Chain Dataset](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
